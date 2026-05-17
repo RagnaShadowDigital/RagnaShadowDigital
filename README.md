@@ -1,3 +1,23 @@
+```bash
+RagnaShadowDigital@gh:~$ whoami
+
+██████╗  █████╗  ██████╗ ███╗   ██╗ █████╗ 
+██╔══██╗██╔══██╗██╔════╝ ████╗  ██║██╔══██╗
+██████╔╝███████║██║  ███╗██╔██╗ ██║███████║
+██╔══██╗██╔══██║██║   ██║██║╚██╗██║██╔══██║
+██║  ██║██║  ██║╚██████╔╝██║ ╚████║██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝
+
+███████╗██╗  ██╗ █████╗ ██████╗  ██████╗ ██╗    ██╗
+██╔════╝██║  ██║██╔══██╗██╔══██╗██╔═══██╗██║    ██║
+███████╗███████║███████║██║  ██║██║   ██║██║ █╗ ██║
+╚════██║██╔══██║██╔══██║██║  ██║██║   ██║██║███╗██║
+███████║██║  ██║██║  ██║██████╔╝╚██████╔╝╚███╔███╔╝
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝  ╚══╝╚══╝
+
+> Automation. Code. Innovation.
+> Building the future, one line at a time.
+```
 <h1 align="center">
   Hi 👋, I'm <span style="color:#7B68EE;">Americo Braga Liscano</span>
 </h1>
@@ -5,11 +25,8 @@
 <h3 align="center">
 Automation Engineering Student | Developer | Tech Enthusiast
 </h3>
-
 <p align="center">
-  <a href="https://github.com/RagnaShadowDigital">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=7B68EE&center=true&vCenter=true&width=900&lines=Automation+Engineering+Student;Python+Developer;Tech+Enthusiast;Building+Projects+Every+Day;Future+Automation+Engineer" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=7B68EE&center=true&vCenter=true&width=900&lines=Automation+Engineering+Student;Python+Developer;Tech+Enthusiast;Building+Projects+Every+Day;Future+Automation+Engineer"/>
 </p>
 
 ---
